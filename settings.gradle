@@ -1,0 +1,5 @@
+rootProject.name = 'test'
+include 'server'
+include 'web'
+include 'common'
+include 'social'
