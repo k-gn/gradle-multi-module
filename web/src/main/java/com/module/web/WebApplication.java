@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication(scanBasePackages = {
 	"com.module.server",
 	"com.module.web",
-	"com.module.common",
-	"com.module.social"
+	"com.module.common"
 })
 public class WebApplication {
 
